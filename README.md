@@ -1,5 +1,5 @@
 # Selenium Web Otomasyon
-
+![banner resmi](https://github.com/Recephanay/gitgidiyor/blob/main/gtgidiyor.png)
 www.gittigidiyor.com sitesi açılır.
 Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
 Login işlemi kontrol edilir.
