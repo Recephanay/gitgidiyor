@@ -1,0 +1,23 @@
+2021-12-03 17:10:18,985 INFO  [Log] Go to Login Page. 
+2021-12-03 17:10:22,225 INFO  [Log] Go to Home Page 
+2021-12-03 17:10:22,389 INFO  [Log] The text written on the My Account button is: Hesabım
+testtest676544 
+2021-12-03 17:10:22,392 INFO  [Log] Girdiniz... 
+2021-12-03 17:10:25,696 INFO  [Log] The word 'bilgisayar' is entered in the search box 
+2021-12-03 17:10:25,740 INFO  [Log] Kelimeler Doğrulandı. 
+2021-12-03 17:10:25,753 INFO  [Log] Sayfa Sonu İndi 
+2021-12-03 17:10:26,393 INFO  [Log] Random Ürünü favorilerime eklendi 
+2021-12-03 17:10:27,561 INFO  [Log] Anasayfaya dönüş yapıldı 
+2021-12-03 17:10:29,618 INFO  [Log] Çanta aratıldı 
+2021-12-03 17:10:31,849 INFO  [Log] Çanta sepete eklendi 
+2021-12-03 17:10:32,013 INFO  [Log] Sepetteki ürün adedi arttı 
+2021-12-03 17:10:32,097 INFO  [Log] Ödeme sayfasına geçildi. 
+2021-12-03 17:10:33,455 INFO  [Log] Adres bilgileri kaydet butonuna tıklandı ve hata mesajı alındı 
+2021-12-03 17:10:36,977 INFO  [Log] Sepet Düzenleme yapıldı 
+2021-12-03 17:10:37,067 INFO  [Log] Favorilerden 2.ürün eklendi 
+2021-12-03 17:10:38,563 INFO  [Log] Sepetten ürün cıkarıldı 
+2021-12-03 17:10:38,644 INFO  [Log] Sepetten ürün cıkarıldı 
+2021-12-03 17:10:40,211 INFO  [Log] Yan tabdan anasayfayı açıldı 
+2021-12-03 17:10:41,730 INFO  [Log] log out olundu 
+2021-12-03 17:10:42,889 INFO  [Log] Tab kapatıldı 
+2021-12-03 17:10:43,061 INFO  [Log] searchSearch() PASSED 
